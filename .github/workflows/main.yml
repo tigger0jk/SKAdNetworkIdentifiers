@@ -1,0 +1,30 @@
+# borrowed from https://github.com/simonw/ca-fires-history/blob/main/.github/workflows/scrape.yml
+
+name: Scrape latest data
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron:  '15,35,55 * * * *'
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out this repo
+      uses: actions/checkout@v2
+    - name: Fetch latest data
+      run: |-
+        mkdir -p unity
+        cd unity
+        curl -O -J https://skan.mz.unity3d.com/v2/partner/skadnetworks.plist.xml
+        curl -O -J https://skan.mz.unity3d.com/v2/partner/skadnetworks.plist.json
+    - name: Commit and push if it changed
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "Latest data: ${timestamp}" || exit 0
+        git push
