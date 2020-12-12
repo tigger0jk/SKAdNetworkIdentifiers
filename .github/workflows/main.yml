@@ -18,8 +18,8 @@ jobs:
       run: |-
         mkdir -p unity
         cd unity
-        curl -O -J https://skan.mz.unity3d.com/v2/partner/skadnetworks.plist.xml
-        curl -O -J https://skan.mz.unity3d.com/v2/partner/skadnetworks.plist.json
+        curl https://skan.mz.unity3d.com/v2/partner/skadnetworks.plist.xml | python -c 'import sys;import xml.dom.minidom;s=sys.stdin.read();print(xml.dom.minidom.parseString(s).toprettyxml())' > skadnetworks.plist.xml
+        curl https://skan.mz.unity3d.com/v2/partner/skadnetworks.plist.json | jq > skadnetworks.plist.json
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
