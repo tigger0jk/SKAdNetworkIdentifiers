@@ -5,11 +5,6 @@
 <plist version="1.0">
 	<array>
 		<dict>
-			<!-- Criteo Corp -->
-			<key>SKAdNetworkIdentifier</key>
-			<string>hs6bdukanm.skadnetwork</string>
-		</dict>
-		<dict>
 			<!-- Beeswax -->
 			<key>SKAdNetworkIdentifier</key>
 			<string>c6k4g5qg8m.skadnetwork</string>
@@ -30,24 +25,9 @@
 			<string>mlmmfzh3r3.skadnetwork</string>
 		</dict>
 		<dict>
-			<!-- SPOTAD LTD -->
+			<!-- Criteo Corp -->
 			<key>SKAdNetworkIdentifier</key>
-			<string>f73kdq92p3.skadnetwork</string>
-		</dict>
-		<dict>
-			<!-- LoopMe Ltd -->
-			<key>SKAdNetworkIdentifier</key>
-			<string>5lm9lj6jb7.skadnetwork</string>
-		</dict>
-		<dict>
-			<!-- Spyke Media GmbH -->
-			<key>SKAdNetworkIdentifier</key>
-			<string>44n7hlldy6.skadnetwork</string>
-		</dict>
-		<dict>
-			<!-- Bidmachine -->
-			<key>SKAdNetworkIdentifier</key>
-			<string>wg4vff78zm.skadnetwork</string>
+			<string>hs6bdukanm.skadnetwork</string>
 		</dict>
 		<dict>
 			<!-- ADTIMING TECHNOLOGY PTE. LTD. -->
@@ -70,14 +50,29 @@
 			<string>4PFYVQ9L8R.skadnetwork</string>
 		</dict>
 		<dict>
+			<!-- SPOTAD LTD -->
+			<key>SKAdNetworkIdentifier</key>
+			<string>f73kdq92p3.skadnetwork</string>
+		</dict>
+		<dict>
+			<!-- LoopMe Ltd -->
+			<key>SKAdNetworkIdentifier</key>
+			<string>5lm9lj6jb7.skadnetwork</string>
+		</dict>
+		<dict>
+			<!-- Spyke Media GmbH -->
+			<key>SKAdNetworkIdentifier</key>
+			<string>44n7hlldy6.skadnetwork</string>
+		</dict>
+		<dict>
+			<!-- Bidmachine -->
+			<key>SKAdNetworkIdentifier</key>
+			<string>wg4vff78zm.skadnetwork</string>
+		</dict>
+		<dict>
 			<!-- UNICORN Inc. -->
 			<key>SKAdNetworkIdentifier</key>
 			<string>578prtvx9j.skadnetwork</string>
-		</dict>
-		<dict>
-			<!-- Unity Technologies -->
-			<key>SKAdNetworkIdentifier</key>
-			<string>4DZT52R2T5.skadnetwork</string>
 		</dict>
 		<dict>
 			<!-- YouAppi Inc -->
@@ -100,24 +95,9 @@
 			<string>3sh42y64q3.skadnetwork</string>
 		</dict>
 		<dict>
-			<!-- Snap Inc. -->
+			<!-- Unity Technologies -->
 			<key>SKAdNetworkIdentifier</key>
-			<string>424M5254LK.skadnetwork</string>
-		</dict>
-		<dict>
-			<!-- REVX TECHNOLOGY PRIVATE LIMITED -->
-			<key>SKAdNetworkIdentifier</key>
-			<string>5a6flpkh64.skadnetwork</string>
-		</dict>
-		<dict>
-			<!-- Cheetah Medialink  -->
-			<key>SKAdNetworkIdentifier</key>
-			<string>24t9a8vw3c.skadnetwork</string>
-		</dict>
-		<dict>
-			<!-- Mintegral -->
-			<key>SKAdNetworkIdentifier</key>
-			<string>KBD757YWX3.skadnetwork</string>
+			<string>4DZT52R2T5.skadnetwork</string>
 		</dict>
 		<dict>
 			<!-- BYTEMOD PTE. LTD-CN -->
@@ -140,9 +120,24 @@
 			<string>ydx93a7ass.skadnetwork</string>
 		</dict>
 		<dict>
-			<!-- Maiden Marketing Pvt Ltd.  -->
+			<!-- Snap Inc. -->
 			<key>SKAdNetworkIdentifier</key>
-			<string>zmvfpc5aq8.skadnetwork</string>
+			<string>424M5254LK.skadnetwork</string>
+		</dict>
+		<dict>
+			<!-- REVX TECHNOLOGY PRIVATE LIMITED -->
+			<key>SKAdNetworkIdentifier</key>
+			<string>5a6flpkh64.skadnetwork</string>
+		</dict>
+		<dict>
+			<!-- Cheetah Medialink  -->
+			<key>SKAdNetworkIdentifier</key>
+			<string>24t9a8vw3c.skadnetwork</string>
+		</dict>
+		<dict>
+			<!-- Mintegral -->
+			<key>SKAdNetworkIdentifier</key>
+			<string>KBD757YWX3.skadnetwork</string>
 		</dict>
 		<dict>
 			<!-- LifeStreet Corporation -->
@@ -150,9 +145,9 @@
 			<string>t38b2kh725.skadnetwork</string>
 		</dict>
 		<dict>
-			<!-- Smadex SL -->
+			<!-- Maiden Marketing Pvt Ltd.  -->
 			<key>SKAdNetworkIdentifier</key>
-			<string>ppxm28t8ap.skadnetwork</string>
+			<string>zmvfpc5aq8.skadnetwork</string>
 		</dict>
 		<dict>
 			<!-- CrossInstall -->
@@ -175,9 +170,9 @@
 			<string>v72qych5uu.skadnetwork</string>
 		</dict>
 		<dict>
-			<!-- Liftoff Mobile, Inc. -->
+			<!-- Smadex SL -->
 			<key>SKAdNetworkIdentifier</key>
-			<string>7UG5ZH24HU.skadnetwork</string>
+			<string>ppxm28t8ap.skadnetwork</string>
 		</dict>
 		<dict>
 			<!-- Sabio Mobile Inc. -->
@@ -200,9 +195,9 @@
 			<string>4468km3ulz.skadnetwork</string>
 		</dict>
 		<dict>
-			<!-- Unity Technologies -->
+			<!-- Liftoff Mobile, Inc. -->
 			<key>SKAdNetworkIdentifier</key>
-			<string>bvpn9ufa9b.skadnetwork</string>
+			<string>7UG5ZH24HU.skadnetwork</string>
 		</dict>
 		<dict>
 			<!-- RTBHouse Pte LTD -->
@@ -223,6 +218,11 @@
 			<!-- Apptimus LTD -->
 			<key>SKAdNetworkIdentifier</key>
 			<string>lr83yxwka7.skadnetwork</string>
+		</dict>
+		<dict>
+			<!-- Unity Technologies -->
+			<key>SKAdNetworkIdentifier</key>
+			<string>bvpn9ufa9b.skadnetwork</string>
 		</dict>
 	</array>
 </plist>
