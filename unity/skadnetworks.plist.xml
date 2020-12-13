@@ -5,11 +5,6 @@
 <plist version="1.0">
 	<array>
 		<dict>
-			<!-- Snap Inc. -->
-			<key>SKAdNetworkIdentifier</key>
-			<string>424M5254LK.skadnetwork</string>
-		</dict>
-		<dict>
 			<!-- Remerge GmbH -->
 			<key>SKAdNetworkIdentifier</key>
 			<string>2U9PT9HC89.skadnetwork</string>
@@ -30,6 +25,11 @@
 			<string>prcb7njmu6.skadnetwork</string>
 		</dict>
 		<dict>
+			<!-- Snap Inc. -->
+			<key>SKAdNetworkIdentifier</key>
+			<string>424M5254LK.skadnetwork</string>
+		</dict>
+		<dict>
 			<!-- YouAppi Inc -->
 			<key>SKAdNetworkIdentifier</key>
 			<string>3RD42EKR43.skadnetwork</string>
@@ -38,11 +38,6 @@
 			<!-- Criteo SA (Manage.com) -->
 			<key>SKAdNetworkIdentifier</key>
 			<string>9RD848Q2BZ.skadnetwork</string>
-		</dict>
-		<dict>
-			<!-- Smadex SL -->
-			<key>SKAdNetworkIdentifier</key>
-			<string>ppxm28t8ap.skadnetwork</string>
 		</dict>
 		<dict>
 			<!-- ADTIMING TECHNOLOGY PTE. LTD. -->
@@ -75,9 +70,9 @@
 			<string>8s468mfl3y.skadnetwork</string>
 		</dict>
 		<dict>
-			<!-- BYTEMOD PTE. LTD-CN -->
+			<!-- Smadex SL -->
 			<key>SKAdNetworkIdentifier</key>
-			<string>238da6jt44.skadnetwork</string>
+			<string>ppxm28t8ap.skadnetwork</string>
 		</dict>
 		<dict>
 			<!-- Jampp LTD -->
@@ -115,14 +110,14 @@
 			<string>GLQZH8VGBY.skadnetwork</string>
 		</dict>
 		<dict>
+			<!-- BYTEMOD PTE. LTD-CN -->
+			<key>SKAdNetworkIdentifier</key>
+			<string>238da6jt44.skadnetwork</string>
+		</dict>
+		<dict>
 			<!-- LoopMe Ltd -->
 			<key>SKAdNetworkIdentifier</key>
 			<string>5lm9lj6jb7.skadnetwork</string>
-		</dict>
-		<dict>
-			<!-- Adikteev SA -->
-			<key>SKAdNetworkIdentifier</key>
-			<string>ydx93a7ass.skadnetwork</string>
 		</dict>
 		<dict>
 			<!-- Persona.ly LTD -->
@@ -155,9 +150,9 @@
 			<string>M8DBW4SV7C.skadnetwork</string>
 		</dict>
 		<dict>
-			<!-- Kidoz Ltd. -->
+			<!-- Adikteev SA -->
 			<key>SKAdNetworkIdentifier</key>
-			<string>v79kvwwj4g.skadnetwork</string>
+			<string>ydx93a7ass.skadnetwork</string>
 		</dict>
 		<dict>
 			<!-- Liftoff Mobile, Inc. -->
@@ -170,9 +165,9 @@
 			<string>WZMMZ9FP6W.skadnetwork</string>
 		</dict>
 		<dict>
-			<!-- BYTEMOD PTE. LTD-global -->
+			<!-- Kidoz Ltd. -->
 			<key>SKAdNetworkIdentifier</key>
-			<string>22mmun2rn5.skadnetwork</string>
+			<string>v79kvwwj4g.skadnetwork</string>
 		</dict>
 		<dict>
 			<!-- Criteo Corp -->
@@ -200,9 +195,9 @@
 			<string>KBD757YWX3.skadnetwork</string>
 		</dict>
 		<dict>
-			<!-- Apptimus LTD -->
+			<!-- BYTEMOD PTE. LTD-global -->
 			<key>SKAdNetworkIdentifier</key>
-			<string>lr83yxwka7.skadnetwork</string>
+			<string>22mmun2rn5.skadnetwork</string>
 		</dict>
 		<dict>
 			<!-- Spyke Media GmbH -->
@@ -223,6 +218,11 @@
 			<!-- Realtime Technologies GmbH -->
 			<key>SKAdNetworkIdentifier</key>
 			<string>4468km3ulz.skadnetwork</string>
+		</dict>
+		<dict>
+			<!-- Apptimus LTD -->
+			<key>SKAdNetworkIdentifier</key>
+			<string>lr83yxwka7.skadnetwork</string>
 		</dict>
 	</array>
 </plist>
