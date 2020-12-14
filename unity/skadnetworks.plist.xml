@@ -5,24 +5,9 @@
 <plist version="1.0">
 	<array>
 		<dict>
-			<!-- Bidmachine -->
+			<!-- Adikteev SA -->
 			<key>SKAdNetworkIdentifier</key>
-			<string>wg4vff78zm.skadnetwork</string>
-		</dict>
-		<dict>
-			<!-- LifeStreet Corporation -->
-			<key>SKAdNetworkIdentifier</key>
-			<string>t38b2kh725.skadnetwork</string>
-		</dict>
-		<dict>
-			<!-- mkhoj Solutions Private Limited -->
-			<key>SKAdNetworkIdentifier</key>
-			<string>WZMMZ9FP6W.skadnetwork</string>
-		</dict>
-		<dict>
-			<!-- Remerge GmbH -->
-			<key>SKAdNetworkIdentifier</key>
-			<string>2U9PT9HC89.skadnetwork</string>
+			<string>ydx93a7ass.skadnetwork</string>
 		</dict>
 		<dict>
 			<!-- Apptimus LTD -->
@@ -60,11 +45,6 @@
 			<string>M8DBW4SV7C.skadnetwork</string>
 		</dict>
 		<dict>
-			<!-- Adikteev SA -->
-			<key>SKAdNetworkIdentifier</key>
-			<string>ydx93a7ass.skadnetwork</string>
-		</dict>
-		<dict>
 			<!-- Moloco, Inc -->
 			<key>SKAdNetworkIdentifier</key>
 			<string>9T245VHMPL.skadnetwork</string>
@@ -78,6 +58,11 @@
 			<!-- Beeswax -->
 			<key>SKAdNetworkIdentifier</key>
 			<string>c6k4g5qg8m.skadnetwork</string>
+		</dict>
+		<dict>
+			<!-- YouAppi Inc -->
+			<key>SKAdNetworkIdentifier</key>
+			<string>3RD42EKR43.skadnetwork</string>
 		</dict>
 		<dict>
 			<!-- ADTIMING TECHNOLOGY PTE. LTD. -->
@@ -115,14 +100,14 @@
 			<string>GLQZH8VGBY.skadnetwork</string>
 		</dict>
 		<dict>
-			<!-- YouAppi Inc -->
-			<key>SKAdNetworkIdentifier</key>
-			<string>3RD42EKR43.skadnetwork</string>
-		</dict>
-		<dict>
 			<!-- Cheetah Medialink  -->
 			<key>SKAdNetworkIdentifier</key>
 			<string>24t9a8vw3c.skadnetwork</string>
+		</dict>
+		<dict>
+			<!-- ScaleMonk Inc. -->
+			<key>SKAdNetworkIdentifier</key>
+			<string>av6w8kgt66.skadnetwork</string>
 		</dict>
 		<dict>
 			<!-- SPOTAD LTD -->
@@ -145,9 +130,9 @@
 			<string>prcb7njmu6.skadnetwork</string>
 		</dict>
 		<dict>
-			<!-- ScaleMonk Inc. -->
+			<!-- Realtime Technologies GmbH -->
 			<key>SKAdNetworkIdentifier</key>
-			<string>av6w8kgt66.skadnetwork</string>
+			<string>4468km3ulz.skadnetwork</string>
 		</dict>
 		<dict>
 			<!-- Spyke Media GmbH -->
@@ -170,9 +155,9 @@
 			<string>zmvfpc5aq8.skadnetwork</string>
 		</dict>
 		<dict>
-			<!-- Realtime Technologies GmbH -->
+			<!-- Centro Inc. -->
 			<key>SKAdNetworkIdentifier</key>
-			<string>4468km3ulz.skadnetwork</string>
+			<string>3sh42y64q3.skadnetwork</string>
 		</dict>
 		<dict>
 			<!-- UNICORN Inc. -->
@@ -195,9 +180,9 @@
 			<string>44jx6755aq.skadnetwork</string>
 		</dict>
 		<dict>
-			<!-- Centro Inc. -->
+			<!-- Chartboost, Inc. -->
 			<key>SKAdNetworkIdentifier</key>
-			<string>3sh42y64q3.skadnetwork</string>
+			<string>F38H382JLK.skadnetwork</string>
 		</dict>
 		<dict>
 			<!-- LoopMe Ltd -->
@@ -220,9 +205,24 @@
 			<string>4FZDC2EVR5.skadnetwork</string>
 		</dict>
 		<dict>
-			<!-- Chartboost, Inc. -->
+			<!-- Remerge GmbH -->
 			<key>SKAdNetworkIdentifier</key>
-			<string>F38H382JLK.skadnetwork</string>
+			<string>2U9PT9HC89.skadnetwork</string>
+		</dict>
+		<dict>
+			<!-- Bidmachine -->
+			<key>SKAdNetworkIdentifier</key>
+			<string>wg4vff78zm.skadnetwork</string>
+		</dict>
+		<dict>
+			<!-- LifeStreet Corporation -->
+			<key>SKAdNetworkIdentifier</key>
+			<string>t38b2kh725.skadnetwork</string>
+		</dict>
+		<dict>
+			<!-- mkhoj Solutions Private Limited -->
+			<key>SKAdNetworkIdentifier</key>
+			<string>WZMMZ9FP6W.skadnetwork</string>
 		</dict>
 	</array>
 </plist>
