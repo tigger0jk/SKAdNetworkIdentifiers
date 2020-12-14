@@ -35,16 +35,6 @@
     "createdAt": "2020-08-21T00:00:00Z"
   },
   {
-    "skAdNetworkID": "M8DBW4SV7C.skadnetwork",
-    "entityName": "DATASEAT LTD",
-    "createdAt": "2020-08-21T00:00:00Z"
-  },
-  {
-    "skAdNetworkID": "v79kvwwj4g.skadnetwork",
-    "entityName": "Kidoz Ltd.",
-    "createdAt": "2020-08-21T19:05:21.432Z"
-  },
-  {
     "skAdNetworkID": "bvpn9ufa9b.skadnetwork",
     "entityName": "Unity Technologies",
     "createdAt": "2020-08-21T00:00:00Z"
@@ -73,6 +63,16 @@
     "skAdNetworkID": "22mmun2rn5.skadnetwork",
     "entityName": "BYTEMOD PTE. LTD-global",
     "createdAt": "2020-08-21T00:00:00Z"
+  },
+  {
+    "skAdNetworkID": "M8DBW4SV7C.skadnetwork",
+    "entityName": "DATASEAT LTD",
+    "createdAt": "2020-08-21T00:00:00Z"
+  },
+  {
+    "skAdNetworkID": "v79kvwwj4g.skadnetwork",
+    "entityName": "Kidoz Ltd.",
+    "createdAt": "2020-08-21T19:05:21.432Z"
   },
   {
     "skAdNetworkID": "lr83yxwka7.skadnetwork",
