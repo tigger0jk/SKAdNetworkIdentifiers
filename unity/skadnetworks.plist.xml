@@ -5,6 +5,21 @@
 <plist version="1.0">
 	<array>
 		<dict>
+			<!-- Liftoff Mobile, Inc. -->
+			<key>SKAdNetworkIdentifier</key>
+			<string>7UG5ZH24HU.skadnetwork</string>
+		</dict>
+		<dict>
+			<!-- mkhoj Solutions Private Limited -->
+			<key>SKAdNetworkIdentifier</key>
+			<string>WZMMZ9FP6W.skadnetwork</string>
+		</dict>
+		<dict>
+			<!-- Kidoz Ltd. -->
+			<key>SKAdNetworkIdentifier</key>
+			<string>v79kvwwj4g.skadnetwork</string>
+		</dict>
+		<dict>
 			<!-- LifeStreet Corporation -->
 			<key>SKAdNetworkIdentifier</key>
 			<string>t38b2kh725.skadnetwork</string>
@@ -208,21 +223,6 @@
 			<!-- Persona.ly LTD -->
 			<key>SKAdNetworkIdentifier</key>
 			<string>44jx6755aq.skadnetwork</string>
-		</dict>
-		<dict>
-			<!-- Liftoff Mobile, Inc. -->
-			<key>SKAdNetworkIdentifier</key>
-			<string>7UG5ZH24HU.skadnetwork</string>
-		</dict>
-		<dict>
-			<!-- mkhoj Solutions Private Limited -->
-			<key>SKAdNetworkIdentifier</key>
-			<string>WZMMZ9FP6W.skadnetwork</string>
-		</dict>
-		<dict>
-			<!-- Kidoz Ltd. -->
-			<key>SKAdNetworkIdentifier</key>
-			<string>v79kvwwj4g.skadnetwork</string>
 		</dict>
 	</array>
 </plist>
