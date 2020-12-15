@@ -5,6 +5,36 @@
 <plist version="1.0">
 	<array>
 		<dict>
+			<!-- Smadex SL -->
+			<key>SKAdNetworkIdentifier</key>
+			<string>ppxm28t8ap.skadnetwork</string>
+		</dict>
+		<dict>
+			<!-- ADTIMING TECHNOLOGY PTE. LTD. -->
+			<key>SKAdNetworkIdentifier</key>
+			<string>488r3q3dtq.skadnetwork</string>
+		</dict>
+		<dict>
+			<!-- Jampp LTD -->
+			<key>SKAdNetworkIdentifier</key>
+			<string>YCLNXRL5PM.skadnetwork</string>
+		</dict>
+		<dict>
+			<!-- PubNative GMBH -->
+			<key>SKAdNetworkIdentifier</key>
+			<string>TL55SBB4FM.skadnetwork</string>
+		</dict>
+		<dict>
+			<!-- Chartboost, Inc. -->
+			<key>SKAdNetworkIdentifier</key>
+			<string>F38H382JLK.skadnetwork</string>
+		</dict>
+		<dict>
+			<!-- LoopMe Ltd -->
+			<key>SKAdNetworkIdentifier</key>
+			<string>5lm9lj6jb7.skadnetwork</string>
+		</dict>
+		<dict>
 			<!-- ScaleMonk Inc. -->
 			<key>SKAdNetworkIdentifier</key>
 			<string>av6w8kgt66.skadnetwork</string>
@@ -110,6 +140,11 @@
 			<string>f73kdq92p3.skadnetwork</string>
 		</dict>
 		<dict>
+			<!-- Kidoz Ltd. -->
+			<key>SKAdNetworkIdentifier</key>
+			<string>v79kvwwj4g.skadnetwork</string>
+		</dict>
+		<dict>
 			<!-- Unity Technologies -->
 			<key>SKAdNetworkIdentifier</key>
 			<string>bvpn9ufa9b.skadnetwork</string>
@@ -143,11 +178,6 @@
 			<!-- DATASEAT LTD -->
 			<key>SKAdNetworkIdentifier</key>
 			<string>M8DBW4SV7C.skadnetwork</string>
-		</dict>
-		<dict>
-			<!-- Kidoz Ltd. -->
-			<key>SKAdNetworkIdentifier</key>
-			<string>v79kvwwj4g.skadnetwork</string>
 		</dict>
 		<dict>
 			<!-- Apptimus LTD -->
@@ -193,36 +223,6 @@
 			<!-- REVX TECHNOLOGY PRIVATE LIMITED -->
 			<key>SKAdNetworkIdentifier</key>
 			<string>5a6flpkh64.skadnetwork</string>
-		</dict>
-		<dict>
-			<!-- Smadex SL -->
-			<key>SKAdNetworkIdentifier</key>
-			<string>ppxm28t8ap.skadnetwork</string>
-		</dict>
-		<dict>
-			<!-- ADTIMING TECHNOLOGY PTE. LTD. -->
-			<key>SKAdNetworkIdentifier</key>
-			<string>488r3q3dtq.skadnetwork</string>
-		</dict>
-		<dict>
-			<!-- Jampp LTD -->
-			<key>SKAdNetworkIdentifier</key>
-			<string>YCLNXRL5PM.skadnetwork</string>
-		</dict>
-		<dict>
-			<!-- PubNative GMBH -->
-			<key>SKAdNetworkIdentifier</key>
-			<string>TL55SBB4FM.skadnetwork</string>
-		</dict>
-		<dict>
-			<!-- Chartboost, Inc. -->
-			<key>SKAdNetworkIdentifier</key>
-			<string>F38H382JLK.skadnetwork</string>
-		</dict>
-		<dict>
-			<!-- LoopMe Ltd -->
-			<key>SKAdNetworkIdentifier</key>
-			<string>5lm9lj6jb7.skadnetwork</string>
 		</dict>
 	</array>
 </plist>
