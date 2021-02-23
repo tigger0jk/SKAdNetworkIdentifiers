@@ -225,6 +225,11 @@
 			<string>bvpn9ufa9b.skadnetwork</string>
 		</dict>
 		<dict>
+			<!-- WEBEYE MOBILE(HK) LIMITED -->
+			<key>SKAdNetworkIdentifier</key>
+			<string>5tjdwbrq8w.skadnetwork</string>
+		</dict>
+		<dict>
 			<!-- YouAppi Inc -->
 			<key>SKAdNetworkIdentifier</key>
 			<string>3rd42ekr43.skadnetwork</string>
