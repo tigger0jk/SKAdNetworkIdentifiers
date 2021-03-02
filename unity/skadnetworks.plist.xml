@@ -80,6 +80,11 @@
 			<string>24t9a8vw3c.skadnetwork</string>
 		</dict>
 		<dict>
+			<!-- Clearpier Inc. -->
+			<key>SKAdNetworkIdentifier</key>
+			<string>x44k69ngh6.skadnetwork</string>
+		</dict>
+		<dict>
 			<!-- Criteo Corp -->
 			<key>SKAdNetworkIdentifier</key>
 			<string>hs6bdukanm.skadnetwork</string>
