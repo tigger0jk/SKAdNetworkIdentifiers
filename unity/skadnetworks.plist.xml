@@ -105,9 +105,24 @@
 			<string>m8dbw4sv7c.skadnetwork</string>
 		</dict>
 		<dict>
+			<!-- Facebook, Inc. -->
+			<key>SKAdNetworkIdentifier</key>
+			<string>n38lu8286q.skadnetwork</string>
+		</dict>
+		<dict>
+			<!-- Facebook, Inc. -->
+			<key>SKAdNetworkIdentifier</key>
+			<string>v9wttpbfk9.skadnetwork</string>
+		</dict>
+		<dict>
 			<!-- Google LLC -->
 			<key>SKAdNetworkIdentifier</key>
 			<string>cstr6suwn9.skadnetwork</string>
+		</dict>
+		<dict>
+			<!-- IronSource -->
+			<key>SKAdNetworkIdentifier</key>
+			<string>su67r6k2v3.skadnetwork</string>
 		</dict>
 		<dict>
 			<!-- Jampp LTD -->
