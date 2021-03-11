@@ -160,6 +160,11 @@
 			<string>zmvfpc5aq8.skadnetwork</string>
 		</dict>
 		<dict>
+			<!-- Mail.Ru Group (myTarget) -->
+			<key>SKAdNetworkIdentifier</key>
+			<string>n9x2a789qt.skadnetwork</string>
+		</dict>
+		<dict>
 			<!-- Mars Media Group (MMG) -->
 			<key>SKAdNetworkIdentifier</key>
 			<string>ejvt5qm6ak.skadnetwork</string>
@@ -268,6 +273,11 @@
 			<!-- Valassis Communications, Inc. -->
 			<key>SKAdNetworkIdentifier</key>
 			<string>mtkv5xtk9e.skadnetwork</string>
+		</dict>
+		<dict>
+			<!-- Vungle, Inc. -->
+			<key>SKAdNetworkIdentifier</key>
+			<string>gta9lk7p23.skadnetwork</string>
 		</dict>
 		<dict>
 			<!-- WEBEYE MOBILE(HK) LIMITED -->

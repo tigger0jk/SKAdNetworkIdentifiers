@@ -155,6 +155,11 @@
     "createdAt": "2020-08-21T00:00:00Z"
   },
   {
+    "skAdNetworkID": "n9x2a789qt.skadnetwork",
+    "entityName": "Mail.Ru Group (myTarget)",
+    "createdAt": "2021-03-10T00:00:00Z"
+  },
+  {
     "skAdNetworkID": "ejvt5qm6ak.skadnetwork",
     "entityName": "Mars Media Group (MMG)",
     "createdAt": "2021-03-10T00:00:00Z"
@@ -262,6 +267,11 @@
   {
     "skAdNetworkID": "mtkv5xtk9e.skadnetwork",
     "entityName": "Valassis Communications, Inc.",
+    "createdAt": "2021-03-10T00:00:00Z"
+  },
+  {
+    "skAdNetworkID": "gta9lk7p23.skadnetwork",
+    "entityName": "Vungle, Inc.",
     "createdAt": "2021-03-10T00:00:00Z"
   },
   {
