@@ -20,6 +20,11 @@
     "createdAt": "2020-08-24T08:22:00.453Z"
   },
   {
+    "skAdNetworkID": "ludvb6z3bs.skadnetwork",
+    "entityName": "AppLovin Corporation",
+    "createdAt": "2021-03-10T00:00:00Z"
+  },
+  {
     "skAdNetworkID": "v72qych5uu.skadnetwork",
     "entityName": "Appier Inc. ",
     "createdAt": "2020-09-28T08:09:50.327Z"
@@ -150,6 +155,16 @@
     "createdAt": "2020-08-21T00:00:00Z"
   },
   {
+    "skAdNetworkID": "ejvt5qm6ak.skadnetwork",
+    "entityName": "Mars Media Group (MMG)",
+    "createdAt": "2021-03-10T00:00:00Z"
+  },
+  {
+    "skAdNetworkID": "7rz58n8ntl.skadnetwork",
+    "entityName": "Mediasmart Mobile, S.L.",
+    "createdAt": "2021-03-10T00:00:00Z"
+  },
+  {
     "skAdNetworkID": "kbd757ywx3.skadnetwork",
     "entityName": "Mintegral",
     "createdAt": "2020-08-21T00:00:00Z"
@@ -205,6 +220,11 @@
     "createdAt": "2020-08-21T00:00:00Z"
   },
   {
+    "skAdNetworkID": "klf5c3l5u5.skadnetwork",
+    "entityName": "Sift Media, Inc.",
+    "createdAt": "2021-03-10T00:00:00Z"
+  },
+  {
     "skAdNetworkID": "ppxm28t8ap.skadnetwork",
     "entityName": "Smadex SL",
     "createdAt": "2020-08-21T00:00:00Z"
@@ -238,6 +258,11 @@
     "skAdNetworkID": "bvpn9ufa9b.skadnetwork",
     "entityName": "Unity Technologies",
     "createdAt": "2020-08-21T00:00:00Z"
+  },
+  {
+    "skAdNetworkID": "mtkv5xtk9e.skadnetwork",
+    "entityName": "Valassis Communications, Inc.",
+    "createdAt": "2021-03-10T00:00:00Z"
   },
   {
     "skAdNetworkID": "5tjdwbrq8w.skadnetwork",

@@ -25,6 +25,11 @@
 			<string>ydx93a7ass.skadnetwork</string>
 		</dict>
 		<dict>
+			<!-- AppLovin Corporation -->
+			<key>SKAdNetworkIdentifier</key>
+			<string>ludvb6z3bs.skadnetwork</string>
+		</dict>
+		<dict>
 			<!-- Appier Inc.  -->
 			<key>SKAdNetworkIdentifier</key>
 			<string>v72qych5uu.skadnetwork</string>
@@ -155,6 +160,16 @@
 			<string>zmvfpc5aq8.skadnetwork</string>
 		</dict>
 		<dict>
+			<!-- Mars Media Group (MMG) -->
+			<key>SKAdNetworkIdentifier</key>
+			<string>ejvt5qm6ak.skadnetwork</string>
+		</dict>
+		<dict>
+			<!-- Mediasmart Mobile, S.L. -->
+			<key>SKAdNetworkIdentifier</key>
+			<string>7rz58n8ntl.skadnetwork</string>
+		</dict>
+		<dict>
 			<!-- Mintegral -->
 			<key>SKAdNetworkIdentifier</key>
 			<string>kbd757ywx3.skadnetwork</string>
@@ -210,6 +225,11 @@
 			<string>av6w8kgt66.skadnetwork</string>
 		</dict>
 		<dict>
+			<!-- Sift Media, Inc. -->
+			<key>SKAdNetworkIdentifier</key>
+			<string>klf5c3l5u5.skadnetwork</string>
+		</dict>
+		<dict>
 			<!-- Smadex SL -->
 			<key>SKAdNetworkIdentifier</key>
 			<string>ppxm28t8ap.skadnetwork</string>
@@ -243,6 +263,11 @@
 			<!-- Unity Technologies -->
 			<key>SKAdNetworkIdentifier</key>
 			<string>bvpn9ufa9b.skadnetwork</string>
+		</dict>
+		<dict>
+			<!-- Valassis Communications, Inc. -->
+			<key>SKAdNetworkIdentifier</key>
+			<string>mtkv5xtk9e.skadnetwork</string>
 		</dict>
 		<dict>
 			<!-- WEBEYE MOBILE(HK) LIMITED -->
