@@ -20,11 +20,6 @@
     "createdAt": "2020-08-24T08:22:00.453Z"
   },
   {
-    "skAdNetworkID": "ludvb6z3bs.skadnetwork",
-    "entityName": "AppLovin Corporation",
-    "createdAt": "2021-03-10T00:00:00Z"
-  },
-  {
     "skAdNetworkID": "v72qych5uu.skadnetwork",
     "entityName": "Appier Inc. ",
     "createdAt": "2020-09-28T08:09:50.327Z"
@@ -75,16 +70,6 @@
     "createdAt": "2020-08-21T00:00:00Z"
   },
   {
-    "skAdNetworkID": "24t9a8vw3c.skadnetwork",
-    "entityName": "Cheetah Medialink ",
-    "createdAt": "2020-12-01T08:15:46.367Z"
-  },
-  {
-    "skAdNetworkID": "x44k69ngh6.skadnetwork",
-    "entityName": "Clearpier Inc.",
-    "createdAt": "2021-03-02T19:48:53.789Z"
-  },
-  {
     "skAdNetworkID": "hs6bdukanm.skadnetwork",
     "entityName": "Criteo Corp",
     "createdAt": "2020-08-21T00:00:00Z"
@@ -105,24 +90,9 @@
     "createdAt": "2020-08-21T00:00:00Z"
   },
   {
-    "skAdNetworkID": "n38lu8286q.skadnetwork",
-    "entityName": "Facebook, Inc.",
-    "createdAt": "2021-03-10T00:00:00Z"
-  },
-  {
-    "skAdNetworkID": "v9wttpbfk9.skadnetwork",
-    "entityName": "Facebook, Inc.",
-    "createdAt": "2021-03-10T00:00:00Z"
-  },
-  {
     "skAdNetworkID": "cstr6suwn9.skadnetwork",
     "entityName": "Google LLC",
     "createdAt": "2020-09-16T00:00:00Z"
-  },
-  {
-    "skAdNetworkID": "su67r6k2v3.skadnetwork",
-    "entityName": "IronSource",
-    "createdAt": "2021-03-10T00:00:00Z"
   },
   {
     "skAdNetworkID": "yclnxrl5pm.skadnetwork",
@@ -153,21 +123,6 @@
     "skAdNetworkID": "zmvfpc5aq8.skadnetwork",
     "entityName": "Maiden Marketing Pvt Ltd. ",
     "createdAt": "2020-08-21T00:00:00Z"
-  },
-  {
-    "skAdNetworkID": "n9x2a789qt.skadnetwork",
-    "entityName": "Mail.Ru Group (myTarget)",
-    "createdAt": "2021-03-10T00:00:00Z"
-  },
-  {
-    "skAdNetworkID": "ejvt5qm6ak.skadnetwork",
-    "entityName": "Mars Media Group (MMG)",
-    "createdAt": "2021-03-10T00:00:00Z"
-  },
-  {
-    "skAdNetworkID": "7rz58n8ntl.skadnetwork",
-    "entityName": "Mediasmart Mobile, S.L.",
-    "createdAt": "2021-03-10T00:00:00Z"
   },
   {
     "skAdNetworkID": "kbd757ywx3.skadnetwork",
@@ -225,11 +180,6 @@
     "createdAt": "2020-08-21T00:00:00Z"
   },
   {
-    "skAdNetworkID": "klf5c3l5u5.skadnetwork",
-    "entityName": "Sift Media, Inc.",
-    "createdAt": "2021-03-10T00:00:00Z"
-  },
-  {
     "skAdNetworkID": "ppxm28t8ap.skadnetwork",
     "entityName": "Smadex SL",
     "createdAt": "2020-08-21T00:00:00Z"
@@ -238,11 +188,6 @@
     "skAdNetworkID": "424m5254lk.skadnetwork",
     "entityName": "Snap Inc.",
     "createdAt": "2020-09-01T00:00:00Z"
-  },
-  {
-    "skAdNetworkID": "44n7hlldy6.skadnetwork",
-    "entityName": "Spyke Media GmbH",
-    "createdAt": "2020-09-08T07:01:30.981Z"
   },
   {
     "skAdNetworkID": "mlmmfzh3r3.skadnetwork",
@@ -260,21 +205,6 @@
     "createdAt": "2020-08-21T00:00:00Z"
   },
   {
-    "skAdNetworkID": "bvpn9ufa9b.skadnetwork",
-    "entityName": "Unity Technologies",
-    "createdAt": "2020-08-21T00:00:00Z"
-  },
-  {
-    "skAdNetworkID": "mtkv5xtk9e.skadnetwork",
-    "entityName": "Valassis Communications, Inc.",
-    "createdAt": "2021-03-10T00:00:00Z"
-  },
-  {
-    "skAdNetworkID": "gta9lk7p23.skadnetwork",
-    "entityName": "Vungle, Inc.",
-    "createdAt": "2021-03-10T00:00:00Z"
-  },
-  {
     "skAdNetworkID": "5tjdwbrq8w.skadnetwork",
     "entityName": "WEBEYE MOBILE(HK) LIMITED",
     "createdAt": "2021-02-23T01:52:57.963Z"
@@ -283,11 +213,6 @@
     "skAdNetworkID": "3rd42ekr43.skadnetwork",
     "entityName": "YouAppi Inc",
     "createdAt": "2020-08-21T00:00:00Z"
-  },
-  {
-    "skAdNetworkID": "g28c52eehv.skadnetwork",
-    "entityName": "Zynga",
-    "createdAt": "2021-02-02T01:10:06.59Z"
   },
   {
     "skAdNetworkID": "wzmmz9fp6w.skadnetwork",

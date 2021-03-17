@@ -25,11 +25,6 @@
 			<string>ydx93a7ass.skadnetwork</string>
 		</dict>
 		<dict>
-			<!-- AppLovin Corporation -->
-			<key>SKAdNetworkIdentifier</key>
-			<string>ludvb6z3bs.skadnetwork</string>
-		</dict>
-		<dict>
 			<!-- Appier Inc.  -->
 			<key>SKAdNetworkIdentifier</key>
 			<string>v72qych5uu.skadnetwork</string>
@@ -80,16 +75,6 @@
 			<string>f38h382jlk.skadnetwork</string>
 		</dict>
 		<dict>
-			<!-- Cheetah Medialink  -->
-			<key>SKAdNetworkIdentifier</key>
-			<string>24t9a8vw3c.skadnetwork</string>
-		</dict>
-		<dict>
-			<!-- Clearpier Inc. -->
-			<key>SKAdNetworkIdentifier</key>
-			<string>x44k69ngh6.skadnetwork</string>
-		</dict>
-		<dict>
 			<!-- Criteo Corp -->
 			<key>SKAdNetworkIdentifier</key>
 			<string>hs6bdukanm.skadnetwork</string>
@@ -110,24 +95,9 @@
 			<string>m8dbw4sv7c.skadnetwork</string>
 		</dict>
 		<dict>
-			<!-- Facebook, Inc. -->
-			<key>SKAdNetworkIdentifier</key>
-			<string>n38lu8286q.skadnetwork</string>
-		</dict>
-		<dict>
-			<!-- Facebook, Inc. -->
-			<key>SKAdNetworkIdentifier</key>
-			<string>v9wttpbfk9.skadnetwork</string>
-		</dict>
-		<dict>
 			<!-- Google LLC -->
 			<key>SKAdNetworkIdentifier</key>
 			<string>cstr6suwn9.skadnetwork</string>
-		</dict>
-		<dict>
-			<!-- IronSource -->
-			<key>SKAdNetworkIdentifier</key>
-			<string>su67r6k2v3.skadnetwork</string>
 		</dict>
 		<dict>
 			<!-- Jampp LTD -->
@@ -158,21 +128,6 @@
 			<!-- Maiden Marketing Pvt Ltd.  -->
 			<key>SKAdNetworkIdentifier</key>
 			<string>zmvfpc5aq8.skadnetwork</string>
-		</dict>
-		<dict>
-			<!-- Mail.Ru Group (myTarget) -->
-			<key>SKAdNetworkIdentifier</key>
-			<string>n9x2a789qt.skadnetwork</string>
-		</dict>
-		<dict>
-			<!-- Mars Media Group (MMG) -->
-			<key>SKAdNetworkIdentifier</key>
-			<string>ejvt5qm6ak.skadnetwork</string>
-		</dict>
-		<dict>
-			<!-- Mediasmart Mobile, S.L. -->
-			<key>SKAdNetworkIdentifier</key>
-			<string>7rz58n8ntl.skadnetwork</string>
 		</dict>
 		<dict>
 			<!-- Mintegral -->
@@ -230,11 +185,6 @@
 			<string>av6w8kgt66.skadnetwork</string>
 		</dict>
 		<dict>
-			<!-- Sift Media, Inc. -->
-			<key>SKAdNetworkIdentifier</key>
-			<string>klf5c3l5u5.skadnetwork</string>
-		</dict>
-		<dict>
 			<!-- Smadex SL -->
 			<key>SKAdNetworkIdentifier</key>
 			<string>ppxm28t8ap.skadnetwork</string>
@@ -243,11 +193,6 @@
 			<!-- Snap Inc. -->
 			<key>SKAdNetworkIdentifier</key>
 			<string>424m5254lk.skadnetwork</string>
-		</dict>
-		<dict>
-			<!-- Spyke Media GmbH -->
-			<key>SKAdNetworkIdentifier</key>
-			<string>44n7hlldy6.skadnetwork</string>
 		</dict>
 		<dict>
 			<!-- Triapodi Ltd. -->
@@ -265,21 +210,6 @@
 			<string>4dzt52r2t5.skadnetwork</string>
 		</dict>
 		<dict>
-			<!-- Unity Technologies -->
-			<key>SKAdNetworkIdentifier</key>
-			<string>bvpn9ufa9b.skadnetwork</string>
-		</dict>
-		<dict>
-			<!-- Valassis Communications, Inc. -->
-			<key>SKAdNetworkIdentifier</key>
-			<string>mtkv5xtk9e.skadnetwork</string>
-		</dict>
-		<dict>
-			<!-- Vungle, Inc. -->
-			<key>SKAdNetworkIdentifier</key>
-			<string>gta9lk7p23.skadnetwork</string>
-		</dict>
-		<dict>
 			<!-- WEBEYE MOBILE(HK) LIMITED -->
 			<key>SKAdNetworkIdentifier</key>
 			<string>5tjdwbrq8w.skadnetwork</string>
@@ -288,11 +218,6 @@
 			<!-- YouAppi Inc -->
 			<key>SKAdNetworkIdentifier</key>
 			<string>3rd42ekr43.skadnetwork</string>
-		</dict>
-		<dict>
-			<!-- Zynga -->
-			<key>SKAdNetworkIdentifier</key>
-			<string>g28c52eehv.skadnetwork</string>
 		</dict>
 		<dict>
 			<!-- mkhoj Solutions Private Limited -->
