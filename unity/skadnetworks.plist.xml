@@ -75,6 +75,11 @@
 			<string>f38h382jlk.skadnetwork</string>
 		</dict>
 		<dict>
+			<!-- Clearpier Performance Inc. -->
+			<key>SKAdNetworkIdentifier</key>
+			<string>mp6xlyr22a.skadnetwork</string>
+		</dict>
+		<dict>
 			<!-- Click Tech Limited -->
 			<key>SKAdNetworkIdentifier</key>
 			<string>32z4fx6l9h.skadnetwork</string>
@@ -228,6 +233,11 @@
 			<!-- YouAppi Inc -->
 			<key>SKAdNetworkIdentifier</key>
 			<string>3rd42ekr43.skadnetwork</string>
+		</dict>
+		<dict>
+			<!-- hybrid.ai -->
+			<key>SKAdNetworkIdentifier</key>
+			<string>w9q455wk68.skadnetwork</string>
 		</dict>
 		<dict>
 			<!-- mkhoj Solutions Private Limited -->
