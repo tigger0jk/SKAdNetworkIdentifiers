@@ -165,6 +165,11 @@
 			<string>tl55sbb4fm.skadnetwork</string>
 		</dict>
 		<dict>
+			<!-- Pubmatic Inc -->
+			<key>SKAdNetworkIdentifier</key>
+			<string>k674qkevps.skadnetwork</string>
+		</dict>
+		<dict>
 			<!-- REVX TECHNOLOGY PRIVATE LIMITED -->
 			<key>SKAdNetworkIdentifier</key>
 			<string>5a6flpkh64.skadnetwork</string>
