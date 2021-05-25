@@ -235,6 +235,11 @@
 			<string>5tjdwbrq8w.skadnetwork</string>
 		</dict>
 		<dict>
+			<!-- Yandex Europe AG -->
+			<key>SKAdNetworkIdentifier</key>
+			<string>zq492l623r.skadnetwork</string>
+		</dict>
+		<dict>
 			<!-- YouAppi Inc -->
 			<key>SKAdNetworkIdentifier</key>
 			<string>3rd42ekr43.skadnetwork</string>
